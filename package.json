@@ -1,11 +1,11 @@
 {
-  "name": "multifunction-crud",
+  "name": "anshare-multifunction-crud",
   "version": "0.1.7",
-  "description": "基于elementui二次封装,一键CrudTable",
+  "description": "Anshare版本基于elementui二次封装,一键CrudTable",
   "main": "packages/index.ts",
   "private": false,
   "license": "MIT",
-  "keyword": "multifunction-crud",
+  "keyword": "anshare-multifunction-crud",
   "author": "BoBo<BoBoooooo159@gmail.com>",
   "scripts": {
     "serve": "vue-cli-service serve",
